@@ -1,7 +1,7 @@
-Game Station/Game Console R35S - uses same CPU (RK3326) as RGB20S and RG351MP
+#Game Station/Game Console R35S - same CPU (RK3326) as RGB20S and RG351MP
 
-AmberELEC and ArkOS:
+#AmberELEC and ArkOS:
 rk3326-rg351mp-linux.dtb
 
-UnofficialOS:
+#UnofficialOS:
 rk3326-rgb20s-linux.dtb
