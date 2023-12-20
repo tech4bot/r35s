@@ -1,3 +1,6 @@
+### Copy any of the scripts to ports folder and then run it from Ports menu
+---
+
 **fix_audio_without_confirmation.sh** - *Temporary script run every time you restart your console*
 
 **fix_audio.sh** - *Temporary script run every time you restart your console, askes for confirmation*
