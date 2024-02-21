@@ -6,10 +6,10 @@ Game Station/Game Console/Game Consoie R33S / R35S / R36S - same CPU (RK3326) as
 > DTB replacement for AmberELEC still applies if you want to use the official release Panda Conspiracy.
 
 **[AmberELEC](https://github.com/AmberELEC/AmberELEC/releases) and [ArkOS](https://github.com/christianhaitian/arkos/wiki#download-links):**
-- rk3326-rg351mp-linux.dtb
+- [rk3326-rg351mp-linux.dtb](https://github.com/tech4bot/r35s/blob/main/rk3326-rg351mp-linux.dtb)
 
 **[UnofficialOS](https://github.com/RetroGFX/UnofficialOS/releases):**
-- rk3326-rgb20s-linux.dtb
+- [rk3326-rgb20s-linux.dtb](https://github.com/tech4bot/r35s/blob/main/rk3326-rgb20s-linux.dtb)
 
 You can find the full installation **[tutorial](https://youtu.be/Ahk9HmvoP-0)** on my YouTube channel **[Hack around](https://www.youtube.com/@hackaround/)**.
 
