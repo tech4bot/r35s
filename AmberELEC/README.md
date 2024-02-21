@@ -1,3 +1,6 @@
+> [!CAUTION]
+> Latest [prereleases](https://github.com/AmberELEC/AmberELEC-prerelease/releases/) of AmberELEC are working with R33S/R35S/R36S and don't require to run any audio script.
+
 ### Copy any of the scripts to ports folder and then run it from Ports menu
 ---
 
