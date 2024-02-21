@@ -1,5 +1,10 @@
-Game Station/Game Console R35S / R36S - same CPU (RK3326) as RGB20S and RG351MP
+Game Station/Game Console/Game Consoie R33S / R35S / R36S - same CPU (RK3326) as RGB20S and RG351MP
 ---
+> [!IMPORTANT]
+> Latest [prereleases](https://github.com/AmberELEC/AmberELEC-prerelease/releases/) of AmberELEC do not require any DTB replacemnet, everything is plug and play.
+> 
+> DTB replacement for AmberELEC still applies if you want to use the official release Panda Conspiracy.
+
 **[AmberELEC](https://github.com/AmberELEC/AmberELEC/releases) and [ArkOS](https://github.com/christianhaitian/arkos/wiki#download-links):**
 - rk3326-rg351mp-linux.dtb
 
