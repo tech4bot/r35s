@@ -11,6 +11,9 @@ Game Station/Game Console/Game Consoie R33S / R35S / R36S - same CPU (RK3326) as
 **[UnofficialOS](https://github.com/RetroGFX/UnofficialOS/releases):**
 - [rk3326-rgb20s-linux.dtb](https://github.com/tech4bot/r35s/blob/main/rk3326-rgb20s-linux.dtb)
 
+> [!IMPORTANT]
+>Starting from March 2024, R33S/R35S/R36S devices are being delivered with new displays. In case you receive a new device and the main DTB from here is not working, then try using the DTB files from [new_displays](https://github.com/tech4bot/r35s/tree/main/new_displays)
+
 You can find the full installation **[tutorial](https://youtu.be/Ahk9HmvoP-0)** on my YouTube channel **[Hack around](https://www.youtube.com/@hackaround/)**.
 
 ---
