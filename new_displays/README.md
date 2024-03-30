@@ -1,0 +1,1 @@
+If you have a new R33S/R35S/R36S and you replaced the main DTB and you still get a black screen, try the new DTB files which are made for ArkOS and AmberELEC for two new displays.
