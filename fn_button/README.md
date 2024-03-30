@@ -1,0 +1,1 @@
+This dtb files contains the FN button which is not configured by default and it was added later.
