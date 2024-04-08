@@ -1,0 +1,1 @@
+# Each folder contains the original DTB file from ArkOS that was included with the R33S/R35S/R36S console for the new displays.
